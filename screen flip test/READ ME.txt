@@ -1,0 +1,10 @@
+hihi so basically i made this because i was bored and didnt have anything to do.
+
+This is pretty scuffed, in order to "flip" the screen i had to screen shot the UI and use it as a seperate sprite. Then i had to move the arena to its X-AXIS reflection, and for poseur, i had to remove the sprite from the MONSTER file and move it to the "anim" file. in order to make poseur "flip" correctly, i had to move poseur the best i could back to its original position, then reflect it across its X-AXIS, and yeah.
+For the inverted controls i just made them as a library in the "soul" file.
+
+this is pretty trash, but if you DO modify it, GIVE ME CREDIT!!! (same goes if you showcase it)
+Ill try to make a fully functioning library for screen flipping
+--mod by: Frankfro66
+
+PS:this is trash because a 13 year old made this, and yes, i DO touch grass
